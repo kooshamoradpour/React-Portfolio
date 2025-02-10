@@ -22,3 +22,11 @@
   .icon:hover {
     color: #0077b5; /* LinkedIn blue as default hover color */
   }
+  body {
+    background: linear-gradient(
+      180deg,
+      rgb(223 223 247) 0%,
+      rgb(190 190 226) 15%,
+      rgb(166 174 234) 100%
+    )
+  }
